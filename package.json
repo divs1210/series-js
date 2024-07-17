@@ -1,0 +1,28 @@
+{
+  "name": "@divs1210/series-js",
+  "version": "1.0.0",
+  "description": "Generate polynomial series with ease",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "dev": "jest --watch",
+    "coverage": "jest --coverage "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/divs1210/series-js.git"
+  },
+  "author": "Divyansh Prakash",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/divs1210/series-js/issues"
+  },
+  "homepage": "https://github.com/divs1210/series-js",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "jest-cli": "^29.7.0"
+  },
+  "engines" : { 
+    "node" : ">=20.6.1"
+  }
+}
