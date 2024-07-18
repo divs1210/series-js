@@ -1,5 +1,8 @@
 # series-js
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+ ![CI](https://github.com/divs1210/series-js/actions/workflows/node.js.yml/badge.svg)
+
 Generate polynomial series with ease.
 
 A software implementation of Babbage's [Difference Engine](https://en.wikipedia.org/wiki/Difference_engine).
